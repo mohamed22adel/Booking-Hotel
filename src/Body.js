@@ -28,7 +28,7 @@ export default function Body(){
     return(
         <div>
         <div className="center_paragraph">
-<h1 className="center_paragraph_h1">Explore  Live!</h1>
+<h1 className="center_paragraph_h1">Explore Discover Live!</h1>
 <p className="center_disc">The best hotel for your family</p>
 <Link to="/explore now"><button className="btn_explore">Explore Now</button></Link>
 </div>
